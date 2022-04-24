@@ -1,0 +1,9 @@
+
+.vscode/targets.log
+.vscode/dryrun.log
+.vscode/configurationCache.log
+.vscode/launch.json
+.vscode/tasks.json
+NFC_Driver/ST25DV/Release_Notes.html
+*.exe
+*.o
